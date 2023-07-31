@@ -8,9 +8,7 @@ The Email/SMS Spam Classifier is an intelligent system that accurately identifie
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Introduction
 
